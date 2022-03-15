@@ -1,1 +1,3 @@
-# lesson-git
+hello all
+
+third commit,done
